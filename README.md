@@ -8,7 +8,7 @@ TinderClone is a full-stack web application that simulates the core features of 
 
 ## Technologies
 
-- **Frontend**: React, @emotion/react, @emotion/styled, Material-UI
+- **Frontend**: React, Axios, Material-UI
 - **Backend**: NestJS, Mongoose, MongoDB
 
 ## Getting Started
@@ -52,8 +52,6 @@ Deployment
 ----------
 
 The TinderClone application is deployed on Heroku for the backend and Firebase for the frontend:
+- [Application](https://tinde-clone-e8485.firebaseapp.com/)
 
-*   **Frontend**: [Firebase Hosting](https://tinde-clone-e8485.firebaseapp.com/)
-*   **Backend**: [Heroku App](https://tinder-backend-76bfb1b1dc39.herokuapp.com/)
-
-Visit the URLs to see the live application.
+Visit the URL to see the live application.
