@@ -48,3 +48,12 @@ Next, navigate to the tinder-frontend directory and install the dependencies:
 
 
 
+Deployment
+----------
+
+The TinderClone application is deployed on Heroku for the backend and Firebase for the frontend:
+
+*   **Frontend**: [Firebase Hosting](https://tinde-clone-e8485.firebaseapp.com/)
+*   **Backend**: [Heroku App](https://tinder-backend-76bfb1b1dc39.herokuapp.com/)
+
+Visit the URLs to see the live application.
